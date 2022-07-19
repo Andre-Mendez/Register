@@ -1,5 +1,15 @@
 .App {
   text-align: center;
+  background-color: lightgreen;
+}
+
+p.top{
+  color: green;
+  font-size: 30px;
+}
+
+img {
+  margin-top: 30px;
 }
 
 .App-logo {
