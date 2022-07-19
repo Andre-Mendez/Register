@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
         <img src = "careLogo.png" alt="Christiana Care Logo" width="200"/>
-        <p class="top">Patient</p>
+        <p class="top">Hello World</p>
         <Register/>
     </div>
   );
