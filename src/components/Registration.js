@@ -20,7 +20,10 @@ export default function Register() {
   };
 
   return (
+    
     <ThemeProvider theme={theme}>
+            <img src = "careLogo.png" alt="Christiana Care Logo" width="200"/>
+            <p class="top">Patient</p>
       <Container component="main" maxWidth="xs">
         <CssBaseline />
         <Box
